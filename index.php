@@ -707,6 +707,7 @@ const marsFacts = [
 document.getElementById('marsFact').textContent = 
     marsFacts[Math.floor(Math.random() * marsFacts.length)];
 </script>
+<!-- Animacja marsa zrobiona przez AI -->
 
 </body> 
 </html>
